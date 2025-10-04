@@ -1,0 +1,1 @@
+user = input("Enter name's household head : ")
